@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{cab15a5f-02a1-40f6-9c57-e6c93ec3b5f2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="QGBinaryTree.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="QGTreeCalculator.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="QGCalculatorTree.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="LinkStack.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkQueue.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="QGBinaryTree.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="QGTreeCalculator.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="QGCalculatorTree.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkStack.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkQueue.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
